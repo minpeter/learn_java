@@ -7,7 +7,7 @@
 
 public class SystemOutPrintln {
     public static void main(String[] args) throws Exception {
-        System.out.println(7);
+        System.out.println(7); // <- line (행) 단위 주석
         System.out.println(3.15);
         System.out.println("3+5=" + 8);
         System.out.println(3.15 + "는 실수입니다.");
