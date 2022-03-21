@@ -5,7 +5,7 @@ public class Boolean {
 
     System.out.println("b1 = " + b1);
     System.out.println("b2 = " + b2);
-    System.out.println("3 > 4 = " + (3 > 4));
     System.out.println("3 < 4 = " + (3 < 4));
+    System.out.println("3 > 4 = " + (3 > 4));
   }
 }
