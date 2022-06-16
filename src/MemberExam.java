@@ -23,5 +23,5 @@ class Student {
   int grade;
   int ban;
   int number;
-  private String telephone;
+  // private String telephone;
 }
