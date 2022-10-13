@@ -9,8 +9,8 @@ public class BufferedExam {
         try {
             while((aa = bi.read()) != -1) {
                 bo.write(aa);
+                bo.flush();
             }
-            bo.flush();
             bo.close();
             bi.close();
         } catch (Exception id) {}
