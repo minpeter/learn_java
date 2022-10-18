@@ -1,3 +1,5 @@
+package Wrapper;
+
 import java.util.Scanner;
 
 public class parseDataExam {

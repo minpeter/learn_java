@@ -1,3 +1,5 @@
+package Wrapper;
+
 public class WrapValueOf {
     public static void main(String[] args) {
         String str1 = "1024";
