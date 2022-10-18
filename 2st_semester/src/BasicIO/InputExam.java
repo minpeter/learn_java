@@ -1,3 +1,5 @@
+package BasicIO;
+
 import java.io.*;
 
 public class InputExam {

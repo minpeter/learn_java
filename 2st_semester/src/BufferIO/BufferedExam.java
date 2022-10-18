@@ -1,3 +1,5 @@
+package BufferIO;
+
 import java.io.*;
 
 public class BufferedExam {
