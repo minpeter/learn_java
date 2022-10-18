@@ -1,3 +1,5 @@
+package Object;
+
 public class EqualExam {
     public static void main(String[] args) {
         String s1 = "Hansei";

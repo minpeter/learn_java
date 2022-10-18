@@ -1,6 +1,8 @@
+package Etc;
+
 import java.util.ArrayList;
 
-public class ALTest {
+public class ArrayListExam {
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<>();
         list.add(100);

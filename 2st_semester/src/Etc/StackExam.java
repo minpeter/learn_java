@@ -1,3 +1,5 @@
+package Etc;
+
 import java.util.Stack;
 
 public class StackTest {

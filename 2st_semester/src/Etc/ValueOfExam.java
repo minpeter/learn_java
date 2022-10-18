@@ -1,3 +1,5 @@
+package Etc;
+
 public class ValueOfExam {
     public static void main(String[] args) {
         char ch = 'A'; // 문자

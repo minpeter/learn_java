@@ -1,4 +1,6 @@
-public class SubObject extends SuperObject{
+package Etc;
+
+public class SubObject extends SuperObject {
     public SubObject(String name) {
         super(name);
     }

@@ -1,3 +1,5 @@
+package Etc;
+
 public class SuperObject {
 
     public SuperObject(String name) {
@@ -7,7 +9,6 @@ public class SuperObject {
     public void draw() {
         System.out.println("Super Object");
     }
-
     public void paint() {
         draw();
     }
