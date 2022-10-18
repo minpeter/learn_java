@@ -1,4 +1,6 @@
-public class WarpExam {
+package Wrapper;
+
+public class WrapExam {
     public static void main(String[] args) {
         int i = 365;
         double d = 36.5;
