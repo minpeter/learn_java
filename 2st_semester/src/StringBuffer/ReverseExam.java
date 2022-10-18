@@ -1,3 +1,5 @@
+package StringBuffer;
+
 public class ReverseExam {
     public static void main(String[] args) {
         StringBuffer sb1 = new StringBuffer("java programming");

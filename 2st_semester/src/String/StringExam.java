@@ -1,6 +1,6 @@
 package String;
 
-public class StringTest {
+public class StringExam {
   public static void main(String[] args){
     String str = "Twitch TV";
     System.out.println("문자열: " + str);

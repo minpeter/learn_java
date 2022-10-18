@@ -1,6 +1,6 @@
 package String;
 
-public class TrimTest {
+public class TrimExam {
     public static void main(String[] args) {
         String str1 = "  This is TEST    ";
 

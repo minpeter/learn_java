@@ -1,3 +1,5 @@
+package StringBuffer;
+
 public class ReplaceExam {
     public static void main(String[] args) {
         StringBuffer sb1 = new StringBuffer("today is a good day");
