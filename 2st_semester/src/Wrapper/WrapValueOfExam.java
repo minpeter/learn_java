@@ -1,6 +1,6 @@
 package Wrapper;
 
-public class WrapValueOf {
+public class WrapValueOfExam {
     public static void main(String[] args) {
         String str1 = "1024";
         String str2 = "3.14";

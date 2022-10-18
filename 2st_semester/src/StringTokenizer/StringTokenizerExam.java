@@ -2,7 +2,7 @@ package StringTokenizer;
 
 import java.util.StringTokenizer;
 
-public class StringTokenizerEx {
+public class StringTokenizerExam {
     public static void main(String[] args) {
         String query = "name=kitae&addr=seoul&age=21";
         StringTokenizer st = new StringTokenizer(query, "&"); // 구분 문자 &로 Token 나누기
